@@ -1,4 +1,4 @@
-# Taranis Low Voltage Readouts
+# Low Voltage Readouts
 
 As ever, Bardwell gives us the [goods](https://www.youtube.com/watch?v=2xt623VAMEk).
 
