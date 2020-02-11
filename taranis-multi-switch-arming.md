@@ -1,8 +1,8 @@
-# Taranis Multi-Switch Arming
+# Multi-Switch Arming
 
 **PLEASE TEST THIS WITH YOUR PROPS OFF**
 
-How to setup multi switch arming for a Taranis running OpenTX 2.2. The purpose of dual switch arming is primarily safety. 
+How to setup multi switch arming for a running OpenTX 2.2 (also just tested on 2.3 and is OK). The purpose of dual switch arming is primarily safety. 
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
