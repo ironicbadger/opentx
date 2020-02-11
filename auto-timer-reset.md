@@ -1,6 +1,6 @@
-# Taranis Automatic Timer Reset
+# Automatic Timer Reset
 
-After watching a video from StingerSwarm on how to reset flight timers automatically, his method didn't quite work for me as it relied on RSSI - which doesn't reset on the XSR as it doesn't reset on the X4R-SB. Using VFAS < 16.7v (a fully charged 4S Lipo) as the conditional works just as well.
+After watching a video from StingerSwarm on how to reset flight timers automatically, his method didn't quite work for me as it relied on RSSI - which doesn't reset on the XSR as it does on the X4R-SB for some reason? Using VFAS < 16.7v (a fully charged 4S Lipo) as the conditional works just as well.
 
 ## Logical Switches
 
